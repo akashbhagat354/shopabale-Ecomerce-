@@ -1,0 +1,224 @@
+.cart-table thead {
+    background: #f4f8ff none repeat scroll 0 0;
+    height: 60px;
+    line-height: 60px;
+}
+
+.content-area {
+    background: #f4f8ff;
+    float: left;
+    width: 100%;
+    padding: 30px;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+.cart-table thead tr th {
+    border-bottom: 0 none;
+}
+.cart-table thead tr th {
+    color: #333;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 12px;
+}
+table tr th:first-child, table tr td:first-child {
+    padding-left: 40px;
+}
+ .table > thead > tr > th {
+    border-top: none;
+    vertical-align: middle;
+}
+.table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+}
+.table td, .table th {
+    padding: .75rem;
+   
+}
+table th {
+    line-height: initial;
+}
+th {
+    text-align: inherit;
+}
+
+th {
+    display: table-cell;
+  
+}
+
+.discount-copon span {
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+span {
+    font-family: Open Sans;
+}
+.discount-copon form {
+    float: left;
+    width: 100%;
+}
+.discount-copon form button {
+    border: medium none;
+   
+    border-radius: 5px;
+    color: #fff;
+    font-size: 14px;
+    line-height: 37px;
+    margin-left: 20px;
+    margin-top: 5px;
+    text-transform: uppercase;
+    width: 107px;
+    background: rgba(0, 0, 0, 0) linear-gradient(
+-135deg
+, #1de9b6 0%, #1dc4e9 100%) repeat scroll 0 0;
+   
+}
+[type=reset], [type=submit], button, html [type=button] {
+    -webkit-appearance: button;
+}
+button, html input[type="button"], input[type="reset"], input[type="submit"] {
+    cursor: pointer;
+}
+button, select {
+    text-transform: none;
+}
+button, input {
+    overflow: visible;
+}
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+.discount-copon {
+    background: #f4f8ff none repeat scroll 0 0;
+    
+    border-radius: 5px;
+    float: left;
+    padding: 40px 35px;
+    width: 100%;
+}
+.discount-copon form input {
+   
+    border-radius: 5px;
+    float: left;
+    padding: 13px 20px;
+    width: 74%;
+    border: 1px solid #eaeaea;
+}
+label {
+    display: inline-block;
+    margin-bottom: .5rem;
+}
+.discount-copon form label {
+    color: #aea9a9;
+    margin-bottom: 10px;
+    width: 100%;
+    font-size: 13px;
+}
+.discount-copon form button:hover {
+    background: #333;
+}
+
+.cart-summary {
+    background: #f4f8ff none repeat scroll 0 0;
+    
+    border-radius: 5px;
+    display: table;
+    padding: 40px;
+    width: 100%;
+}
+
+
+.summery-title {
+    display: table-cell;
+    vertical-align: top;
+}
+.summery-title > h3 {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 15px;
+}
+h1, h2, h3, h4, h5, h6 {
+     font-family: "Open Sans", sans-serif;
+    margin: 0;
+    color: #1a1a1a;
+}
+.cart-total {
+    display: table-cell;
+    padding-left: 40px;
+    vertical-align: top;
+    font-weight: 600;
+    font-size: 12px;
+}ul, ol {
+    margin-bottom: 0;
+    list-style: none;
+}
+dl, ol, ul {
+    margin-top: 0;
+}
+.cart-total > li > span {
+    float: right;
+}
+span {
+    font-family: Open Sans;
+}
+.cart-total > li {
+    display: block;
+    margin-bottom: 16px;
+}
+.total-btns {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+}
+.drk-gry-clr {
+    background: #999999;
+}
+.btn-st {
+    color: #fff;
+    display: inline-block;
+    font-size: 14px;
+    padding: 8px 20px;
+    vertical-align: bottom;
+   
+    border-radius: 4px;
+    background: rgba(0, 0, 0, 0) linear-gradient(
+-135deg
+, #1de9b6 0%, #1dc4e9 100%) repeat scroll 0 0;
+    
+    box-shadow: 0 5px 10px 0 rgb(0 0 0 / 20%);
+   
+    transition: all 0.2s linear 0s;
+}
+a, a:hover, a:focus, a:active {
+    color: inherit;
+    outline: none;
+    
+    text-decoration: none;
+}
+.no-gap {
+    padding: 0;
+}
+.gap {
+    float: left;
+    padding: 30px 0;
+    position: relative;
+    width: 100%;
+}
+.inner-bg {
+    float: left;
+    width: 100%;
+    background: #fff;
+    border: 1px solid #eaeaea;
+
+    border-radius: 5px;
+    padding: 30px;
+}
